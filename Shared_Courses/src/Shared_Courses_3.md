@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"><b>📂 大学课程共享计划整理</b></h2>
+<h2 align="center"><b>📂 大学课程共享计划整理</b></h2>
 
 <h3 align="center">😆 取之有度，用之有道；知识共享，文化互鉴；帮助他人，提升自己。</h3>
 
